@@ -3,7 +3,7 @@
 cd `dirname $0`
 
 # set path to eclipse folder. If local folder, use '.'; otherwise, use /path/to/eclipse/
-eclipsehome="server";
+eclipsehome=".";
 
 # set ports for HTTP(S) server
 HTTP_PORT=8080
